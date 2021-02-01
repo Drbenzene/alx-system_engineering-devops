@@ -1,2 +1,2 @@
->0;276;0c#!/bin/bash
-echo "\"(^oo)'
+#!/bin/bash
+echo "\"("\xc3\x94"o)"
